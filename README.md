@@ -1,6 +1,6 @@
-# Leon.com – HTML & CSS Portfolio Website Description
+# Leon - Portfolio Website Description
 
-Leon.com is a responsive and visually clean personal portfolio website built entirely with HTML and CSS. It showcases my frontend development skills and serves as a professional landing page for potential clients, employers, and collaborators.
+Leon is a responsive and visually clean personal portfolio website built entirely with HTML and CSS. It showcases my frontend development skills and serves as a professional landing page for potential clients, employers, and collaborators.
 
 The site includes:
 
